@@ -8,7 +8,6 @@
 use std::ops::AddAssign;
 use std::default::Default;
 
-// TODO: generalize
 #[derive(Debug)]
 struct Ftree<T> {
     n: i64,
